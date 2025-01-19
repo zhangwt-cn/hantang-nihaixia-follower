@@ -28,6 +28,8 @@
 * [ ] 倪师医案（只有word版，还未整理成md）
 * [ ] 地纪（只有教材）
 
+如果提示目录或文件违规，还可以使用github镜像仓库查看：https://github.com/9527qingfeng/hantang-nihaixia-follower，最好还是使用下面的全局搜索功能哦。
+
 全局搜索教程
 ===============
 
