@@ -1,5 +1,10 @@
 简介
 ===============
+
+最近更新时间：2025-02-13
+
+[![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
+
 传承中医，为往圣继绝学。
 
 主要以倪海厦倪师人纪天纪为主，专攻经方，后期会加入李可、胡希恕等国医大师自学内容。
