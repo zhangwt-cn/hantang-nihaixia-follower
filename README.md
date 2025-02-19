@@ -48,8 +48,16 @@
 电脑端：推荐用vscode+git。项目地址就是gitee地址：https://gitee.com/qingfeng9527/hantang-nihaixia
 项目拉取到本地记得及时更新哦。
 
+[vscode安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+[Git安装教程](https://www.bilibili.com/video/BV1vM4m1Q7hC/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+[TortoiseGit安装使用教程](https://www.bilibili.com/video/BV1xM41197PR/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+
 手机端：请用github移动端，到本项目的github镜像仓库，https://github.com/9527qingfeng/hantang-nihaixia-follower
 starred一下，就可以在你的github移动端找到项目，并使用强大的全局搜索能力了。
+
+[github移动端教程](https://www.bilibili.com/video/BV1Np421Q7cc?spm_id_from=333.788.player.switch&vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+
+非程序员，可点击以上教程并观看教学视频，如果没有学会，可通过百度、抖音、B站搜索相关教学文章和视频，加油。
 
 学习建议
 ===============
