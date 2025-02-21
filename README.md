@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-02-13
+最近更新时间：2025-02-21
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -53,7 +53,7 @@
 [TortoiseGit安装使用教程](https://www.bilibili.com/video/BV1xM41197PR/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 
 手机端：请用github移动端，到本项目的github镜像仓库，https://github.com/9527qingfeng/hantang-nihaixia-follower
-starred一下，就可以在你的github移动端找到项目，并使用强大的全局搜索能力了。
+星标star一下，就可以在你的github移动端找到项目，并使用强大的全局搜索能力了。
 
 [github移动端教程](https://www.bilibili.com/video/BV1Np421Q7cc?spm_id_from=333.788.player.switch&vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 
