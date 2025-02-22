@@ -35,8 +35,7 @@
 * [ ] 倪师医案（只有word版，正在整理中...）
 * [ ] 地纪（只有教材）
 
-如果提示目录或文件名称违规看不了，还可以使用github镜像仓库查看：https://github.com/9527qingfeng/hantang-nihaixia-follower
-，最好还是使用下面的全局搜索功能哦。
+如果提示目录或文件名称违规看不了，还可以使用[github镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)查看，最好还是使用下面的全局搜索功能哦。
 
 全局搜索教程
 ===============
@@ -45,14 +44,14 @@
 
 新手临证只要记住关键词，然后快速查缺补漏，并不需要熟练掌握所有细节，以后用的多了自然记住了。
 
-电脑端：推荐用vscode+git。项目地址就是gitee地址：https://gitee.com/qingfeng9527/hantang-nihaixia
+电脑端：推荐用vscode+git。
 项目拉取到本地记得及时更新哦。
 
 [vscode安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [Git安装教程](https://www.bilibili.com/video/BV1vM4m1Q7hC/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [TortoiseGit安装使用教程](https://www.bilibili.com/video/BV1xM41197PR/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 
-手机端：请用github移动端，到本项目的github镜像仓库，https://github.com/9527qingfeng/hantang-nihaixia-follower
+手机端：请用github移动端，到本项目的[github镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 星标star一下，就可以在你的github移动端找到项目，并使用强大的全局搜索能力了。
 
 [github移动端教程](https://www.bilibili.com/video/BV1Np421Q7cc?spm_id_from=333.788.player.switch&vd_source=587efb7b2cb61b90f1a6a89624ee0276)
@@ -79,7 +78,7 @@
 ===============
 毛泽东选集中写到，看它的过去,就可以知道它的现在;看它的过去和现在,就可以知道它的将来。
 
-算命可以根据一个人现在的面相，而相由心生，知道其大致的过去和现在的情况，获取客户更多信息后，就能推算未来。这门学问非常考验一个人的见识和逻辑性。
+可以根据一个人现在的面相，而相由心生，知道其大致的过去和现在的情况，获取客户更多信息后，就能推断。这门学问非常考验一个人的见识和逻辑性。
 
 中医的望诊总结、天纪的相术总结，一起来看，相术才比较全面。
 
