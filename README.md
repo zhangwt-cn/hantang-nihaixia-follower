@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-02-27 
+最近更新时间：2025-03-07 
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -57,6 +57,10 @@
 [github移动端教程](https://www.bilibili.com/video/BV1Np421Q7cc?spm_id_from=333.788.player.switch&vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 
 非程序员，可点击以上教程并观看教学视频，如果没有学会，可通过百度、抖音、B站搜索相关教学文章和视频，加油。
+
+DeepSeek学习人纪后的AI
+===============
+![图片](./小编医案/img/ai.png)
 
 学习建议
 ===============
