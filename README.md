@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-03-24 
+最近更新时间：2025-03-26 
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -34,8 +34,6 @@
 * [x] 汉唐方剂讲解
 * [ ] 倪师医案（只有word版，正在整理中...）
 * [ ] 地纪（只有教材）
-
-如果提示目录或文件名称违规看不了，还可以使用[github镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)查看，最好还是使用下面的全局搜索功能哦。
 
 全局搜索教程
 ===============
