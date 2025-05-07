@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-04-08
+最近更新时间：2025-04-28
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -42,22 +42,32 @@
 
 新手临证只要记住关键词，然后快速查缺补漏，并不需要熟练掌握所有细节，以后用的多了自然记住了。
 
-电脑端：推荐用vscode+git。
-项目拉取到本地记得及时更新哦。
+#### 网页端：
 
-[vscode安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+最简单的搜索方式。注册并登录Github后，点击网页顶部栏右侧的搜索框🔍。
+
+#### 手机端：
+
+请用Github移动端，到本项目的[Github镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)
+星标Star一下，就可以在你的Github移动端找到项目，并使用强大的全局搜索能力了。
+
+[Github移动端教程](https://www.bilibili.com/video/BV1Np421Q7cc?spm_id_from=333.788.player.switch&vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+
+#### 电脑端：
+
+VSCode+Git，深度学习时，推荐使用，可以在小编笔记的基础上随意修改，并可以随时更新小编最新笔记而不会被覆盖，需要理解并学会Git的多人协作编写一个内容的功能。
+
+[VSCode安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [Git安装教程](https://www.bilibili.com/video/BV1vM4m1Q7hC/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [TortoiseGit安装使用教程](https://www.bilibili.com/video/BV1xM41197PR/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
-
-手机端：请用github移动端，到本项目的[github镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)
-星标star一下，就可以在你的github移动端找到项目，并使用强大的全局搜索能力了。
-
-[github移动端教程](https://www.bilibili.com/video/BV1Np421Q7cc?spm_id_from=333.788.player.switch&vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 
 非程序员，可点击以上教程并观看教学视频，如果没有学会，可通过百度、抖音、B站搜索相关教学文章和视频，加油。
 
 DeepSeek学习人纪后的AI
 ===============
+
+AI不是万能的，针对感冒或早期单一病症比较准，但是症状越多，AI没有完整的理论思维，抓不住重点或者分析错误是很正常的！AI可作为你的学习帮手，你的参谋，但是一定要自己会决断。
+
 ![图片](./小编医案/img/ai.png)
 
 学习建议
